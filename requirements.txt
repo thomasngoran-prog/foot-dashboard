@@ -1,6 +1,0 @@
-streamlit
-mplsoccer
-pandas
-matplotlib
-requests
-beautifulsoup4
