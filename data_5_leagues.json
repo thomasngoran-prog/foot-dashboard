@@ -1,0 +1,1548 @@
+{
+    "Ligue 1": [
+        {
+            "Équipe": "Angers",
+            "Matchs": 5,
+            "xG": 1.67,
+            "xGA": 1.51,
+            "PPDA": 13.2,
+            "Poss": 50.0,
+            "radar": [
+                69,
+                75,
+                45,
+                31,
+                31,
+                70
+            ]
+        },
+        {
+            "Équipe": "Auxerre",
+            "Matchs": 5,
+            "xG": 1.37,
+            "xGA": 2.14,
+            "PPDA": 14.7,
+            "Poss": 50.0,
+            "radar": [
+                57,
+                75,
+                45,
+                21,
+                15,
+                70
+            ]
+        },
+        {
+            "Équipe": "Brest",
+            "Matchs": 5,
+            "xG": 2.17,
+            "xGA": 1.16,
+            "PPDA": 9.1,
+            "Poss": 50.0,
+            "radar": [
+                90,
+                75,
+                45,
+                57,
+                46,
+                70
+            ]
+        },
+        {
+            "Équipe": "Le Havre",
+            "Matchs": 5,
+            "xG": 1.31,
+            "xGA": 2.06,
+            "PPDA": 10.1,
+            "Poss": 50.0,
+            "radar": [
+                54,
+                75,
+                45,
+                51,
+                15,
+                70
+            ]
+        },
+        {
+            "Équipe": "Le Mans",
+            "Matchs": 5,
+            "xG": 1.56,
+            "xGA": 2.09,
+            "PPDA": 13.1,
+            "Poss": 50.0,
+            "radar": [
+                65,
+                75,
+                45,
+                31,
+                15,
+                70
+            ]
+        },
+        {
+            "Équipe": "Lens",
+            "Matchs": 5,
+            "xG": 2.5,
+            "xGA": 1.66,
+            "PPDA": 12.5,
+            "Poss": 50.0,
+            "radar": [
+                98,
+                75,
+                45,
+                35,
+                24,
+                70
+            ]
+        },
+        {
+            "Équipe": "Lille",
+            "Matchs": 5,
+            "xG": 1.48,
+            "xGA": 1.78,
+            "PPDA": 17.8,
+            "Poss": 50.0,
+            "radar": [
+                61,
+                75,
+                45,
+                15,
+                18,
+                70
+            ]
+        },
+        {
+            "Équipe": "Lorient",
+            "Matchs": 5,
+            "xG": 1.16,
+            "xGA": 1.23,
+            "PPDA": 20.0,
+            "Poss": 50.0,
+            "radar": [
+                48,
+                75,
+                45,
+                15,
+                43,
+                70
+            ]
+        },
+        {
+            "Équipe": "Lyon",
+            "Matchs": 5,
+            "xG": 1.99,
+            "xGA": 1.18,
+            "PPDA": 10.9,
+            "Poss": 50.0,
+            "radar": [
+                82,
+                75,
+                45,
+                46,
+                45,
+                70
+            ]
+        },
+        {
+            "Équipe": "Marseille",
+            "Matchs": 5,
+            "xG": 1.7,
+            "xGA": 2.43,
+            "PPDA": 13.0,
+            "Poss": 50.0,
+            "radar": [
+                70,
+                75,
+                45,
+                32,
+                15,
+                70
+            ]
+        },
+        {
+            "Équipe": "Monaco",
+            "Matchs": 5,
+            "xG": 1.23,
+            "xGA": 1.32,
+            "PPDA": 14.0,
+            "Poss": 50.0,
+            "radar": [
+                51,
+                75,
+                45,
+                26,
+                39,
+                70
+            ]
+        },
+        {
+            "Équipe": "Nice",
+            "Matchs": 5,
+            "xG": 1.09,
+            "xGA": 1.96,
+            "PPDA": 11.5,
+            "Poss": 50.0,
+            "radar": [
+                45,
+                75,
+                45,
+                42,
+                15,
+                70
+            ]
+        },
+        {
+            "Équipe": "Paris FC",
+            "Matchs": 5,
+            "xG": 1.89,
+            "xGA": 0.66,
+            "PPDA": 13.4,
+            "Poss": 50.0,
+            "radar": [
+                78,
+                75,
+                45,
+                29,
+                69,
+                70
+            ]
+        },
+        {
+            "Équipe": "Paris Saint Germain",
+            "Matchs": 5,
+            "xG": 2.19,
+            "xGA": 1.16,
+            "PPDA": 11.5,
+            "Poss": 50.0,
+            "radar": [
+                91,
+                75,
+                45,
+                42,
+                46,
+                70
+            ]
+        },
+        {
+            "Équipe": "Rennes",
+            "Matchs": 5,
+            "xG": 2.08,
+            "xGA": 2.03,
+            "PPDA": 10.9,
+            "Poss": 50.0,
+            "radar": [
+                86,
+                75,
+                45,
+                46,
+                15,
+                70
+            ]
+        },
+        {
+            "Équipe": "Strasbourg",
+            "Matchs": 5,
+            "xG": 1.29,
+            "xGA": 1.92,
+            "PPDA": 16.6,
+            "Poss": 50.0,
+            "radar": [
+                53,
+                75,
+                45,
+                15,
+                15,
+                70
+            ]
+        },
+        {
+            "Équipe": "Toulouse",
+            "Matchs": 5,
+            "xG": 2.12,
+            "xGA": 1.66,
+            "PPDA": 10.2,
+            "Poss": 50.0,
+            "radar": [
+                88,
+                75,
+                45,
+                50,
+                24,
+                70
+            ]
+        },
+        {
+            "Équipe": "Troyes",
+            "Matchs": 5,
+            "xG": 1.24,
+            "xGA": 2.1,
+            "PPDA": 16.1,
+            "Poss": 50.0,
+            "radar": [
+                51,
+                75,
+                45,
+                15,
+                15,
+                70
+            ]
+        }
+    ],
+    "Premier League": [
+        {
+            "Équipe": "Arsenal",
+            "Matchs": 5,
+            "xG": 1.88,
+            "xGA": 1.09,
+            "PPDA": 10.5,
+            "Poss": 50.0,
+            "radar": [
+                78,
+                75,
+                45,
+                48,
+                49,
+                70
+            ]
+        },
+        {
+            "Équipe": "Aston Villa",
+            "Matchs": 5,
+            "xG": 1.0,
+            "xGA": 2.17,
+            "PPDA": 17.8,
+            "Poss": 50.0,
+            "radar": [
+                41,
+                75,
+                45,
+                15,
+                15,
+                70
+            ]
+        },
+        {
+            "Équipe": "Bournemouth",
+            "Matchs": 5,
+            "xG": 1.62,
+            "xGA": 1.4,
+            "PPDA": 10.3,
+            "Poss": 50.0,
+            "radar": [
+                67,
+                75,
+                45,
+                50,
+                36,
+                70
+            ]
+        },
+        {
+            "Équipe": "Brentford",
+            "Matchs": 5,
+            "xG": 2.1,
+            "xGA": 1.5,
+            "PPDA": 9.9,
+            "Poss": 50.0,
+            "radar": [
+                87,
+                75,
+                45,
+                52,
+                31,
+                70
+            ]
+        },
+        {
+            "Équipe": "Brighton",
+            "Matchs": 5,
+            "xG": 2.58,
+            "xGA": 1.73,
+            "PPDA": 5.4,
+            "Poss": 50.0,
+            "radar": [
+                98,
+                75,
+                45,
+                81,
+                21,
+                70
+            ]
+        },
+        {
+            "Équipe": "Chelsea",
+            "Matchs": 5,
+            "xG": 1.79,
+            "xGA": 2.06,
+            "PPDA": 14.8,
+            "Poss": 50.0,
+            "radar": [
+                74,
+                75,
+                45,
+                20,
+                15,
+                70
+            ]
+        },
+        {
+            "Équipe": "Coventry",
+            "Matchs": 5,
+            "xG": 1.0,
+            "xGA": 1.72,
+            "PPDA": 21.9,
+            "Poss": 50.0,
+            "radar": [
+                41,
+                75,
+                45,
+                15,
+                21,
+                70
+            ]
+        },
+        {
+            "Équipe": "Crystal Palace",
+            "Matchs": 5,
+            "xG": 1.52,
+            "xGA": 2.0,
+            "PPDA": 16.7,
+            "Poss": 50.0,
+            "radar": [
+                63,
+                75,
+                45,
+                15,
+                15,
+                70
+            ]
+        },
+        {
+            "Équipe": "Everton",
+            "Matchs": 5,
+            "xG": 1.67,
+            "xGA": 1.44,
+            "PPDA": 16.1,
+            "Poss": 50.0,
+            "radar": [
+                69,
+                75,
+                45,
+                15,
+                34,
+                70
+            ]
+        },
+        {
+            "Équipe": "Fulham",
+            "Matchs": 5,
+            "xG": 1.59,
+            "xGA": 2.09,
+            "PPDA": 12.6,
+            "Poss": 50.0,
+            "radar": [
+                66,
+                75,
+                45,
+                35,
+                15,
+                70
+            ]
+        },
+        {
+            "Équipe": "Hull",
+            "Matchs": 5,
+            "xG": 1.15,
+            "xGA": 1.44,
+            "PPDA": 17.3,
+            "Poss": 50.0,
+            "radar": [
+                47,
+                75,
+                45,
+                15,
+                34,
+                70
+            ]
+        },
+        {
+            "Équipe": "Ipswich",
+            "Matchs": 5,
+            "xG": 1.42,
+            "xGA": 2.06,
+            "PPDA": 12.4,
+            "Poss": 50.0,
+            "radar": [
+                59,
+                75,
+                45,
+                36,
+                15,
+                70
+            ]
+        },
+        {
+            "Équipe": "Leeds",
+            "Matchs": 5,
+            "xG": 1.45,
+            "xGA": 1.28,
+            "PPDA": 10.1,
+            "Poss": 50.0,
+            "radar": [
+                60,
+                75,
+                45,
+                51,
+                41,
+                70
+            ]
+        },
+        {
+            "Équipe": "Liverpool",
+            "Matchs": 5,
+            "xG": 1.65,
+            "xGA": 1.39,
+            "PPDA": 8.0,
+            "Poss": 50.0,
+            "radar": [
+                68,
+                75,
+                45,
+                65,
+                36,
+                70
+            ]
+        },
+        {
+            "Équipe": "Manchester City",
+            "Matchs": 5,
+            "xG": 2.21,
+            "xGA": 1.44,
+            "PPDA": 8.6,
+            "Poss": 50.0,
+            "radar": [
+                92,
+                75,
+                45,
+                61,
+                34,
+                70
+            ]
+        },
+        {
+            "Équipe": "Manchester United",
+            "Matchs": 5,
+            "xG": 2.12,
+            "xGA": 1.44,
+            "PPDA": 12.6,
+            "Poss": 50.0,
+            "radar": [
+                88,
+                75,
+                45,
+                35,
+                34,
+                70
+            ]
+        },
+        {
+            "Équipe": "Newcastle United",
+            "Matchs": 5,
+            "xG": 1.11,
+            "xGA": 1.87,
+            "PPDA": 11.2,
+            "Poss": 50.0,
+            "radar": [
+                46,
+                75,
+                45,
+                44,
+                15,
+                70
+            ]
+        },
+        {
+            "Équipe": "Nottingham Forest",
+            "Matchs": 5,
+            "xG": 1.7,
+            "xGA": 1.0,
+            "PPDA": 12.1,
+            "Poss": 50.0,
+            "radar": [
+                70,
+                75,
+                45,
+                38,
+                54,
+                70
+            ]
+        },
+        {
+            "Équipe": "Sunderland",
+            "Matchs": 5,
+            "xG": 2.01,
+            "xGA": 1.77,
+            "PPDA": 10.1,
+            "Poss": 50.0,
+            "radar": [
+                83,
+                75,
+                45,
+                51,
+                19,
+                70
+            ]
+        },
+        {
+            "Équipe": "Tottenham",
+            "Matchs": 5,
+            "xG": 1.16,
+            "xGA": 1.84,
+            "PPDA": 7.9,
+            "Poss": 50.0,
+            "radar": [
+                48,
+                75,
+                45,
+                65,
+                16,
+                70
+            ]
+        }
+    ],
+    "LaLiga": [
+        {
+            "Équipe": "Alaves",
+            "Matchs": 7,
+            "xG": 1.52,
+            "xGA": 1.09,
+            "PPDA": 11.9,
+            "Poss": 50.0,
+            "radar": [
+                63,
+                75,
+                45,
+                39,
+                49,
+                70
+            ]
+        },
+        {
+            "Équipe": "Athletic Club",
+            "Matchs": 6,
+            "xG": 1.88,
+            "xGA": 1.28,
+            "PPDA": 14.5,
+            "Poss": 50.0,
+            "radar": [
+                78,
+                75,
+                45,
+                22,
+                41,
+                70
+            ]
+        },
+        {
+            "Équipe": "Atletico Madrid",
+            "Matchs": 7,
+            "xG": 1.96,
+            "xGA": 1.21,
+            "PPDA": 10.7,
+            "Poss": 50.0,
+            "radar": [
+                81,
+                75,
+                45,
+                47,
+                44,
+                70
+            ]
+        },
+        {
+            "Équipe": "Barcelona",
+            "Matchs": 7,
+            "xG": 4.2,
+            "xGA": 1.11,
+            "PPDA": 7.1,
+            "Poss": 50.0,
+            "radar": [
+                98,
+                75,
+                45,
+                70,
+                49,
+                70
+            ]
+        },
+        {
+            "Équipe": "Celta Vigo",
+            "Matchs": 7,
+            "xG": 1.09,
+            "xGA": 1.31,
+            "PPDA": 14.3,
+            "Poss": 50.0,
+            "radar": [
+                45,
+                75,
+                45,
+                24,
+                40,
+                70
+            ]
+        },
+        {
+            "Équipe": "Deportivo La Coruna",
+            "Matchs": 7,
+            "xG": 1.2,
+            "xGA": 1.49,
+            "PPDA": 14.2,
+            "Poss": 50.0,
+            "radar": [
+                50,
+                75,
+                45,
+                24,
+                31,
+                70
+            ]
+        },
+        {
+            "Équipe": "Elche",
+            "Matchs": 7,
+            "xG": 1.4,
+            "xGA": 2.24,
+            "PPDA": 15.0,
+            "Poss": 50.0,
+            "radar": [
+                58,
+                75,
+                45,
+                19,
+                15,
+                70
+            ]
+        },
+        {
+            "Équipe": "Espanyol",
+            "Matchs": 7,
+            "xG": 1.35,
+            "xGA": 1.46,
+            "PPDA": 11.8,
+            "Poss": 50.0,
+            "radar": [
+                56,
+                75,
+                45,
+                40,
+                33,
+                70
+            ]
+        },
+        {
+            "Équipe": "Getafe",
+            "Matchs": 7,
+            "xG": 0.9,
+            "xGA": 1.54,
+            "PPDA": 12.4,
+            "Poss": 50.0,
+            "radar": [
+                37,
+                75,
+                45,
+                36,
+                29,
+                70
+            ]
+        },
+        {
+            "Équipe": "Levante",
+            "Matchs": 6,
+            "xG": 1.55,
+            "xGA": 2.22,
+            "PPDA": 15.3,
+            "Poss": 50.0,
+            "radar": [
+                64,
+                75,
+                45,
+                17,
+                15,
+                70
+            ]
+        },
+        {
+            "Équipe": "Malaga",
+            "Matchs": 7,
+            "xG": 0.81,
+            "xGA": 2.0,
+            "PPDA": 14.4,
+            "Poss": 50.0,
+            "radar": [
+                33,
+                75,
+                45,
+                23,
+                15,
+                70
+            ]
+        },
+        {
+            "Équipe": "Osasuna",
+            "Matchs": 7,
+            "xG": 1.27,
+            "xGA": 1.71,
+            "PPDA": 12.1,
+            "Poss": 50.0,
+            "radar": [
+                52,
+                75,
+                45,
+                38,
+                22,
+                70
+            ]
+        },
+        {
+            "Équipe": "Racing Santander",
+            "Matchs": 7,
+            "xG": 1.4,
+            "xGA": 2.28,
+            "PPDA": 12.3,
+            "Poss": 50.0,
+            "radar": [
+                58,
+                75,
+                45,
+                37,
+                15,
+                70
+            ]
+        },
+        {
+            "Équipe": "Rayo Vallecano",
+            "Matchs": 7,
+            "xG": 1.3,
+            "xGA": 1.86,
+            "PPDA": 9.1,
+            "Poss": 50.0,
+            "radar": [
+                54,
+                75,
+                45,
+                57,
+                15,
+                70
+            ]
+        },
+        {
+            "Équipe": "Real Betis",
+            "Matchs": 7,
+            "xG": 1.88,
+            "xGA": 1.83,
+            "PPDA": 13.4,
+            "Poss": 50.0,
+            "radar": [
+                78,
+                75,
+                45,
+                29,
+                16,
+                70
+            ]
+        },
+        {
+            "Équipe": "Real Madrid",
+            "Matchs": 7,
+            "xG": 2.81,
+            "xGA": 1.11,
+            "PPDA": 14.3,
+            "Poss": 50.0,
+            "radar": [
+                98,
+                75,
+                45,
+                24,
+                49,
+                70
+            ]
+        },
+        {
+            "Équipe": "Real Sociedad",
+            "Matchs": 7,
+            "xG": 1.34,
+            "xGA": 1.83,
+            "PPDA": 13.3,
+            "Poss": 50.0,
+            "radar": [
+                55,
+                75,
+                45,
+                30,
+                16,
+                70
+            ]
+        },
+        {
+            "Équipe": "Sevilla",
+            "Matchs": 7,
+            "xG": 1.06,
+            "xGA": 1.5,
+            "PPDA": 11.3,
+            "Poss": 50.0,
+            "radar": [
+                44,
+                75,
+                45,
+                43,
+                31,
+                70
+            ]
+        },
+        {
+            "Équipe": "Valencia",
+            "Matchs": 7,
+            "xG": 0.81,
+            "xGA": 1.81,
+            "PPDA": 15.3,
+            "Poss": 50.0,
+            "radar": [
+                33,
+                75,
+                45,
+                17,
+                17,
+                70
+            ]
+        },
+        {
+            "Équipe": "Villarreal",
+            "Matchs": 7,
+            "xG": 2.8,
+            "xGA": 1.63,
+            "PPDA": 9.1,
+            "Poss": 50.0,
+            "radar": [
+                98,
+                75,
+                45,
+                57,
+                25,
+                70
+            ]
+        }
+    ],
+    "Bundesliga": [
+        {
+            "Équipe": "Augsburg",
+            "Matchs": 4,
+            "xG": 2.14,
+            "xGA": 2.13,
+            "PPDA": 23.5,
+            "Poss": 50.0,
+            "radar": [
+                89,
+                75,
+                45,
+                15,
+                15,
+                70
+            ]
+        },
+        {
+            "Équipe": "Bayer Leverkusen",
+            "Matchs": 4,
+            "xG": 2.61,
+            "xGA": 0.86,
+            "PPDA": 10.5,
+            "Poss": 50.0,
+            "radar": [
+                98,
+                75,
+                45,
+                48,
+                60,
+                70
+            ]
+        },
+        {
+            "Équipe": "Bayern Munich",
+            "Matchs": 4,
+            "xG": 3.33,
+            "xGA": 0.75,
+            "PPDA": 7.9,
+            "Poss": 50.0,
+            "radar": [
+                98,
+                75,
+                45,
+                65,
+                65,
+                70
+            ]
+        },
+        {
+            "Équipe": "Borussia Dortmund",
+            "Matchs": 4,
+            "xG": 2.15,
+            "xGA": 1.06,
+            "PPDA": 11.4,
+            "Poss": 50.0,
+            "radar": [
+                89,
+                75,
+                45,
+                42,
+                51,
+                70
+            ]
+        },
+        {
+            "Équipe": "Borussia M.Gladbach",
+            "Matchs": 4,
+            "xG": 1.87,
+            "xGA": 3.1,
+            "PPDA": 11.9,
+            "Poss": 50.0,
+            "radar": [
+                77,
+                75,
+                45,
+                39,
+                15,
+                70
+            ]
+        },
+        {
+            "Équipe": "Eintracht Frankfurt",
+            "Matchs": 4,
+            "xG": 2.22,
+            "xGA": 2.23,
+            "PPDA": 13.4,
+            "Poss": 50.0,
+            "radar": [
+                92,
+                75,
+                45,
+                29,
+                15,
+                70
+            ]
+        },
+        {
+            "Équipe": "Elversberg",
+            "Matchs": 4,
+            "xG": 1.56,
+            "xGA": 2.46,
+            "PPDA": 14.1,
+            "Poss": 50.0,
+            "radar": [
+                65,
+                75,
+                45,
+                25,
+                15,
+                70
+            ]
+        },
+        {
+            "Équipe": "FC Cologne",
+            "Matchs": 4,
+            "xG": 2.24,
+            "xGA": 2.18,
+            "PPDA": 18.7,
+            "Poss": 50.0,
+            "radar": [
+                93,
+                75,
+                45,
+                15,
+                15,
+                70
+            ]
+        },
+        {
+            "Équipe": "Freiburg",
+            "Matchs": 4,
+            "xG": 2.16,
+            "xGA": 1.01,
+            "PPDA": 13.7,
+            "Poss": 50.0,
+            "radar": [
+                90,
+                75,
+                45,
+                27,
+                53,
+                70
+            ]
+        },
+        {
+            "Équipe": "Hamburger SV",
+            "Matchs": 4,
+            "xG": 0.99,
+            "xGA": 2.31,
+            "PPDA": 16.4,
+            "Poss": 50.0,
+            "radar": [
+                41,
+                75,
+                45,
+                15,
+                15,
+                70
+            ]
+        },
+        {
+            "Équipe": "Hoffenheim",
+            "Matchs": 4,
+            "xG": 2.18,
+            "xGA": 2.09,
+            "PPDA": 8.2,
+            "Poss": 50.0,
+            "radar": [
+                90,
+                75,
+                45,
+                63,
+                15,
+                70
+            ]
+        },
+        {
+            "Équipe": "Mainz 05",
+            "Matchs": 4,
+            "xG": 2.64,
+            "xGA": 1.55,
+            "PPDA": 11.6,
+            "Poss": 50.0,
+            "radar": [
+                98,
+                75,
+                45,
+                41,
+                29,
+                70
+            ]
+        },
+        {
+            "Équipe": "Paderborn",
+            "Matchs": 4,
+            "xG": 0.77,
+            "xGA": 1.88,
+            "PPDA": 18.4,
+            "Poss": 50.0,
+            "radar": [
+                32,
+                75,
+                45,
+                15,
+                15,
+                70
+            ]
+        },
+        {
+            "Équipe": "RasenBallsport Leipzig",
+            "Matchs": 4,
+            "xG": 2.19,
+            "xGA": 1.29,
+            "PPDA": 11.9,
+            "Poss": 50.0,
+            "radar": [
+                91,
+                75,
+                45,
+                39,
+                40,
+                70
+            ]
+        },
+        {
+            "Équipe": "Schalke 04",
+            "Matchs": 4,
+            "xG": 1.64,
+            "xGA": 2.58,
+            "PPDA": 25.9,
+            "Poss": 50.0,
+            "radar": [
+                68,
+                75,
+                45,
+                15,
+                15,
+                70
+            ]
+        },
+        {
+            "Équipe": "Union Berlin",
+            "Matchs": 4,
+            "xG": 1.23,
+            "xGA": 3.21,
+            "PPDA": 14.7,
+            "Poss": 50.0,
+            "radar": [
+                51,
+                75,
+                45,
+                21,
+                15,
+                70
+            ]
+        },
+        {
+            "Équipe": "VfB Stuttgart",
+            "Matchs": 4,
+            "xG": 2.03,
+            "xGA": 3.0,
+            "PPDA": 10.8,
+            "Poss": 50.0,
+            "radar": [
+                84,
+                75,
+                45,
+                46,
+                15,
+                70
+            ]
+        },
+        {
+            "Équipe": "Werder Bremen",
+            "Matchs": 4,
+            "xG": 1.32,
+            "xGA": 1.58,
+            "PPDA": 13.3,
+            "Poss": 50.0,
+            "radar": [
+                55,
+                75,
+                45,
+                30,
+                27,
+                70
+            ]
+        }
+    ],
+    "Serie A": [
+        {
+            "Équipe": "AC Milan",
+            "Matchs": 5,
+            "xG": 1.94,
+            "xGA": 1.18,
+            "PPDA": 12.9,
+            "Poss": 50.0,
+            "radar": [
+                80,
+                75,
+                45,
+                33,
+                45,
+                70
+            ]
+        },
+        {
+            "Équipe": "Atalanta",
+            "Matchs": 5,
+            "xG": 0.77,
+            "xGA": 2.14,
+            "PPDA": 21.3,
+            "Poss": 50.0,
+            "radar": [
+                32,
+                75,
+                45,
+                15,
+                15,
+                70
+            ]
+        },
+        {
+            "Équipe": "Bologna",
+            "Matchs": 5,
+            "xG": 1.43,
+            "xGA": 1.21,
+            "PPDA": 12.1,
+            "Poss": 50.0,
+            "radar": [
+                59,
+                75,
+                45,
+                38,
+                44,
+                70
+            ]
+        },
+        {
+            "Équipe": "Cagliari",
+            "Matchs": 5,
+            "xG": 1.09,
+            "xGA": 1.75,
+            "PPDA": 23.4,
+            "Poss": 50.0,
+            "radar": [
+                45,
+                75,
+                45,
+                15,
+                20,
+                70
+            ]
+        },
+        {
+            "Équipe": "Como",
+            "Matchs": 5,
+            "xG": 2.31,
+            "xGA": 1.58,
+            "PPDA": 11.0,
+            "Poss": 50.0,
+            "radar": [
+                96,
+                75,
+                45,
+                45,
+                27,
+                70
+            ]
+        },
+        {
+            "Équipe": "Fiorentina",
+            "Matchs": 5,
+            "xG": 1.53,
+            "xGA": 1.93,
+            "PPDA": 14.4,
+            "Poss": 50.0,
+            "radar": [
+                63,
+                75,
+                45,
+                23,
+                15,
+                70
+            ]
+        },
+        {
+            "Équipe": "Frosinone",
+            "Matchs": 5,
+            "xG": 1.62,
+            "xGA": 2.2,
+            "PPDA": 7.6,
+            "Poss": 50.0,
+            "radar": [
+                67,
+                75,
+                45,
+                67,
+                15,
+                70
+            ]
+        },
+        {
+            "Équipe": "Genoa",
+            "Matchs": 5,
+            "xG": 0.97,
+            "xGA": 1.58,
+            "PPDA": 13.3,
+            "Poss": 50.0,
+            "radar": [
+                40,
+                75,
+                45,
+                30,
+                27,
+                70
+            ]
+        },
+        {
+            "Équipe": "Inter",
+            "Matchs": 5,
+            "xG": 3.11,
+            "xGA": 1.49,
+            "PPDA": 12.0,
+            "Poss": 50.0,
+            "radar": [
+                98,
+                75,
+                45,
+                39,
+                31,
+                70
+            ]
+        },
+        {
+            "Équipe": "Juventus",
+            "Matchs": 5,
+            "xG": 1.85,
+            "xGA": 0.42,
+            "PPDA": 10.9,
+            "Poss": 50.0,
+            "radar": [
+                77,
+                75,
+                45,
+                46,
+                80,
+                70
+            ]
+        },
+        {
+            "Équipe": "Lazio",
+            "Matchs": 5,
+            "xG": 1.81,
+            "xGA": 1.52,
+            "PPDA": 13.0,
+            "Poss": 50.0,
+            "radar": [
+                75,
+                75,
+                45,
+                32,
+                30,
+                70
+            ]
+        },
+        {
+            "Équipe": "Lecce",
+            "Matchs": 5,
+            "xG": 1.25,
+            "xGA": 2.96,
+            "PPDA": 14.9,
+            "Poss": 50.0,
+            "radar": [
+                52,
+                75,
+                45,
+                20,
+                15,
+                70
+            ]
+        },
+        {
+            "Équipe": "Monza",
+            "Matchs": 5,
+            "xG": 1.98,
+            "xGA": 1.48,
+            "PPDA": 14.2,
+            "Poss": 50.0,
+            "radar": [
+                82,
+                75,
+                45,
+                24,
+                32,
+                70
+            ]
+        },
+        {
+            "Équipe": "Napoli",
+            "Matchs": 5,
+            "xG": 1.78,
+            "xGA": 1.32,
+            "PPDA": 14.3,
+            "Poss": 50.0,
+            "radar": [
+                74,
+                75,
+                45,
+                24,
+                39,
+                70
+            ]
+        },
+        {
+            "Équipe": "Parma Calcio 1913",
+            "Matchs": 5,
+            "xG": 0.85,
+            "xGA": 1.96,
+            "PPDA": 15.0,
+            "Poss": 50.0,
+            "radar": [
+                35,
+                75,
+                45,
+                19,
+                15,
+                70
+            ]
+        },
+        {
+            "Équipe": "Roma",
+            "Matchs": 5,
+            "xG": 3.22,
+            "xGA": 1.11,
+            "PPDA": 7.8,
+            "Poss": 50.0,
+            "radar": [
+                98,
+                75,
+                45,
+                66,
+                49,
+                70
+            ]
+        },
+        {
+            "Équipe": "Sassuolo",
+            "Matchs": 5,
+            "xG": 1.86,
+            "xGA": 1.65,
+            "PPDA": 19.3,
+            "Poss": 50.0,
+            "radar": [
+                77,
+                75,
+                45,
+                15,
+                24,
+                70
+            ]
+        },
+        {
+            "Équipe": "Torino",
+            "Matchs": 5,
+            "xG": 1.01,
+            "xGA": 1.54,
+            "PPDA": 14.3,
+            "Poss": 50.0,
+            "radar": [
+                42,
+                75,
+                45,
+                24,
+                29,
+                70
+            ]
+        },
+        {
+            "Équipe": "Udinese",
+            "Matchs": 5,
+            "xG": 1.42,
+            "xGA": 2.12,
+            "PPDA": 19.3,
+            "Poss": 50.0,
+            "radar": [
+                59,
+                75,
+                45,
+                15,
+                15,
+                70
+            ]
+        },
+        {
+            "Équipe": "Venezia",
+            "Matchs": 5,
+            "xG": 1.81,
+            "xGA": 2.47,
+            "PPDA": 8.5,
+            "Poss": 50.0,
+            "radar": [
+                75,
+                75,
+                45,
+                61,
+                15,
+                70
+            ]
+        }
+    ]
+}
