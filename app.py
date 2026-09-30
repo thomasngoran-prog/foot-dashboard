@@ -14,7 +14,7 @@ st.set_page_config(
 # ---------------------------------------------------------
 # CONFIGURATION & CLE API
 # ---------------------------------------------------------
-API_KEY_ODDS = "TA_CLE_API_ICI"  # Colle ta clé The Odds API ici
+API_KEY_ODDS = "6156984daef9e8e6ebe18b31d0afa411"  # Colle ta clé The Odds API ici
 
 LEAGUES_MAP = {
     "Premier League": "soccer_epl",
