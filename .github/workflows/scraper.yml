@@ -1,0 +1,99 @@
+name: Auto Scrape Understat Data
+
+on:
+  schedule:
+    # S'exécute automatiquement tous les mardis à 04h00 UTC (après les matchs du week-end)
+    - cron: '0 4 * * 2'
+  workflow_dispatch: # Permet de lancer le scraping manuellement en 1 clic si besoin
+
+jobs:
+  scrape_and_commit:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install understatapi
+
+    - name: Run Scraper Script
+      run: |
+        python - << 'EOF'
+        import json
+        from understatapi import UnderstatClient
+
+        leagues = {
+            "Ligue 1": "Ligue_1",
+            "Premier League": "EPL",
+            "LaLiga": "La_Liga",
+            "Bundesliga": "Bundesliga",
+            "Serie A": "Serie_A"
+        }
+
+        SEASON = "2026"
+        extracted_data = {}
+
+        print("🔄 Running scheduled extraction...")
+
+        with UnderstatClient() as understat:
+            for name, code in leagues.items():
+                try:
+                    teams_data = understat.league(league=code).get_team_data(season=SEASON)
+                    league_teams = []
+                    for team_id, team_info in teams_data.items():
+                        team_name = team_info["title"]
+                        history = team_info["history"]
+                        if not history:
+                            continue
+                        matches_played = len(history)
+                        total_xg = sum(float(m["xG"]) for m in history)
+                        total_xga = sum(float(m["xGA"]) for m in history)
+                        avg_ppda = sum(
+                            float(m["ppda"]["att"]) / float(m["ppda"]["def"])
+                            if float(m["ppda"]["def"]) > 0 else 0
+                            for m in history
+                        ) / max(1, matches_played)
+
+                        xg_match = round(total_xg / matches_played, 2)
+                        xga_match = round(total_xga / matches_played, 2)
+                        ppda = round(avg_ppda, 1)
+
+                        r_xg = min(int((xg_match / 2.4) * 100), 98)
+                        r_xga = min(max(int((2.2 - xga_match) * 45), 15), 95)
+                        r_ppda = min(max(int((18 - ppda) * 6.5), 15), 98)
+
+                        league_teams.append({
+                            "Équipe": team_name,
+                            "Matchs": matches_played,
+                            "xG": xg_match,
+                            "xGA": xga_match,
+                            "PPDA": ppda,
+                            "Poss": 50.0,
+                            "radar": [r_xg, 75, 45, r_ppda, r_xga, 70]
+                        })
+
+                    extracted_data[name] = sorted(league_teams, key=lambda x: x["Équipe"])
+                    print(f"✅ {name}: {len(league_teams)} teams updated.")
+                except Exception as e:
+                    print(f"❌ Error on {name}: {e}")
+
+        if extracted_data:
+            with open("data_5_leagues.json", "w", encoding="utf-8") as f:
+                json.dump(extracted_data, f, ensure_ascii=False, indent=4)
+            print("🎉 JSON updated successfully.")
+        EOF
+
+    - name: Commit and push updated data
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git add data_5_leagues.json
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update data_5_leagues.json [skip ci]" && git push)
