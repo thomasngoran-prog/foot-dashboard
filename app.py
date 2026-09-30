@@ -11,7 +11,7 @@ st.set_page_config(
 # ---------------------------------------------------------
 # CONFIGURATION ET CHARGEMENT DES DONNÉES LOCALES
 # ---------------------------------------------------------
-API_KEY_ODDS = "TA_CLE_API_ICI"  # Remplace par ta clé The Odds API
+API_KEY_ODDS = "6156984daef9e8e6ebe18b31d0afa411"  # Remplace par ta clé The Odds API
 
 
 @st.cache_data(ttl=0)
